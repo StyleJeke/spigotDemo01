@@ -1,0 +1,4 @@
+name: spigotDemo01
+version: '${project.version}'
+main: com.chasedream.spigotdemo01.SpigotDemo01
+api-version: '1.20'
