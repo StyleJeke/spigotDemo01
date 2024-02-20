@@ -2,3 +2,6 @@ name: spigotDemo01
 version: '${project.version}'
 main: com.chasedream.spigotdemo01.SpigotDemo01
 api-version: '1.20'
+#作者
+author: 追梦
+#注册指令
